@@ -1,0 +1,11 @@
+apiVersion: v2
+
+name: tag-helm-app
+
+description: A custom Helm chart for deploying and managing an NGINX application on Amazon EKS
+
+type: application
+
+version: 1.0.0
+
+appVersion: "1.0.0"

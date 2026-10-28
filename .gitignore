@@ -1,0 +1,15 @@
+# Generated Helm packages
+*.tgz
+
+# Rendered Helm templates for Snyk
+**/output/
+
+# Downloaded installers
+minikube-linux-amd64
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
